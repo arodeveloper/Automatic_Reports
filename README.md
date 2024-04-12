@@ -1,0 +1,6 @@
+
+My program automates the generation of performance reports for our sales team, eliminating the need for a time-consuming manual process. Initially, it focused on displaying agent names and their total revenue from one CSV file. However, based on feedback, I expanded its functionality to include data from two CSV files, merging them into a single table. This enhancement allowed me to incorporate additional metrics, such as the number of sales made by each agent, which is crucial for calculating bonuses.
+
+Using Pandas in Google Colab, I efficiently processed and manipulated the data, leveraging my skills in data analysis to streamline the reporting process. Despite encountering challenges like hiding indexes and adding colors for better presentation, I successfully overcame them, achieving a satisfactory outcome.
+
+The impact of the program is significant—it drastically reduces report generation time, transforming a manual process that required considerable effort into a seamless automated solution that can generate reports in less than a minute. This not only improves efficiency but also facilitates better communication within the team, as reports can now be easily shared in our Google Chat group.
